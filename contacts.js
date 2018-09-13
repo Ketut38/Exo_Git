@@ -22,7 +22,7 @@ var contact1 = Object.create(Contact);
 contact1.init("Lévisse", "Carole");
 
 var contact2 = Object.create(Contact);
-contact2.init("Nelsonne", "Mélodie");
+contact2.init("Abbas", "Mahmoud");
 
 var contacts = [];
 contacts.push(contact1);
